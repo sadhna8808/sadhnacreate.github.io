@@ -1,0 +1,51 @@
+
+.navbar-brand{
+	font-family: sans-serif;
+	font-size:1.5em ;
+	font-weight: bold;
+}
+.navbar #myMenu .custome-nav .nav-item a{
+	color:#fff;
+
+
+}
+.navbar #myMenu .custome-nav .nav-item a:hover{
+	color:#f0aab1;
+	}
+	.back-img{
+		background-size: cover;
+		min-height:150vh; 
+		background-repeat: no-repeat;
+		border-radius: 0;
+		margin-top: 70px;
+		background-position: center center;
+		 
+	
+}
+	.mainheading{
+		margin-top: 50px;
+	}
+	/*media query*/
+	@media only screen and (max-width: 600px){
+	.myclass{
+		margin-top:300px;
+		text-align: center;
+	}
+}
+a{
+	color:black;
+}
+.active{
+	color:white;
+	background-color: #dc3545;
+}
+a:hover{
+	color:#f26571;
+}
+.fi-color{
+	color:#dc3545;
+}
+
+.fi-color:hover{
+	color:#e994a2;
+}
